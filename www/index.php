@@ -44,7 +44,7 @@
 				<b>Images are extracted from the game Team Fortress 2.</b> The copyright for it is held by Valve Corporation, who created the software.<br>
 				<b>Powered</b> by <a href="https://developer.valvesoftware.com/wiki/Steam_Web_API">Steam Web API.</a><br>
 				<b>Webpage design and programming:</b> <a href="http://steamcommunity.com/profiles/76561198043117800">Gabriel Mtz Carrillo</a><br>
-				<b>Steam login, other inventories support added by:</b> <a href="http://steamcommunity.com/id/gamekingz">TheAnthonyNL</a>
+				<b>Steam login, other inventories support added by:</b> <a href="http://steamcommunity.com/profiles/76561198001581508">Anthony aka [TK]GameZ ~ TheAnthonyNL</a>
 			</footer>		
 		</div>
 	</body>
